@@ -1,0 +1,38 @@
+.footer {
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    bottom: 0;
+    
+}
+
+.footer-container {
+    display: flex;
+    
+    align-items: center;
+    height: 80px;
+    max-width: 1500px;
+}
+
+.link-container {
+    display: flex;
+    gap: 6rem;
+   
+    
+}
+
+.social-logo {
+    height: 32px;
+    
+}
+
+.line {
+    background-color: white;
+    height: 2px;
+    width: 15rem;
+    margin-top: 1rem;
+}
