@@ -1,12 +1,12 @@
 import React from "react";
-import HomePage from "../HomePage";
-import Footer from "../Footer";
+import HomeText from "../HomeText";
+import Gallery from "../HomeCarousel";
 
 const Home = () => {
     return(
         <>
-            <HomePage />
-            
+            <HomeText />
+            <Gallery />
         </>
     )
 }

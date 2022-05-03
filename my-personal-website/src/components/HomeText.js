@@ -1,7 +1,7 @@
 import React from 'react';
-import './HomePage.css';
+import './HomeText.css';
 
-const HomePage = () => {
+const HomeText = () => {
 
     return(
         <>
@@ -13,4 +13,4 @@ const HomePage = () => {
     )
 }
 
-export default HomePage;
+export default HomeText;
