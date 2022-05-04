@@ -5,8 +5,8 @@ import githubLogo from '../public/image/github-logo.png'
 
 const projects = [
     {name: "Chibi Cafe", description: "Une partie vitrine et une boutique pour un concept store vendant des sablés personnalisés", link: "https://github.com/FlorentinMarechal/chibi-cafe"},
-    {name: "Bot discord KL", description: "Un bot discord permetant de lancer un vote afin de parier sur les épreuves de Koh Lanta", link: "https://github.com/FlorentinMarechal/discord-bot-kl"},
-    {name: "Mon site de présentation", description: "Vous êtes dessus, un site vitrine fait avec React", link: "https://github.com/FlorentinMarechal/My-Personal-Website"},
+    {name: "Bot discord Koh Lanta", description: "Un bot discord permetant de lancer un vote afin de parier sur les épreuves de Koh Lanta", link: "https://github.com/FlorentinMarechal/discord-bot-kl"},
+    {name: "Mon site", description: "Vous êtes dessus, un site vitrine fait avec React", link: "https://github.com/FlorentinMarechal/My-Personal-Website"},
     {name: "Portfolio", description: "Une API REST pour gérer une collection de jeux de sociétés", link: "https://github.com/FlorentinMarechal/portfolio"},
 ]
 
