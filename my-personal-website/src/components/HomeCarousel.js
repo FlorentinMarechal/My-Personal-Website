@@ -30,15 +30,12 @@ const Gallery = () => {
       <AliceCarousel 
         mouseTracking 
         items={items} 
-        autoHeight
-        autoWidth
-        disableButtonsControls
-        disableDotsControls
         autoPlay
-        paddingLeft={50}
-        paddingRight={300}
+        autoWidth
+        paddingLeft={100}
         infinite
         animationDuration={800}
+        animationType={'fadeout'}
       />
     </div>
   );

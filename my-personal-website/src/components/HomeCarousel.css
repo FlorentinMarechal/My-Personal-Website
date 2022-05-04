@@ -1,17 +1,16 @@
 @import "react-alice-carousel/lib/alice-carousel.css";
 
 .tech-logo {
-    width: 128px;
+    width: 256px;
     
 }
 
 .carousel-container {
     position: absolute;
     left: 15%;
-    bottom: 20%;
-    
+    bottom: 0;
 }
 
 .alice-carousel {
-    width: 20rem;
+    width: 40rem;
 }

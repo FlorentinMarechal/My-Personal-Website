@@ -1,7 +1,5 @@
 body {
-    background-image: url("../public/image/home-background4.jpg");
-    background-size:cover;
-    background-repeat: no-repeat;
+  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
     
 }
 
