@@ -19,7 +19,7 @@
 }
 
 .navbar-logo {
-    color: #61E5EA;
+    color: #2767B2;
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
@@ -48,14 +48,14 @@
 }
 
 .nav-links {
-    color: #61E5EA ;
+    color: #2767B2 ;
     display: flex;
     align-items: center;
     text-decoration: none;
     padding: 0.5rem 1rem;
     height: 100%;
     font-family: 'Patrick Hand', cursive;
-    border-bottom: 2px solid #61E5EA;
+    
   }
 
 

@@ -35,7 +35,9 @@ const Gallery = () => {
         paddingLeft={100}
         infinite
         animationDuration={800}
-        animationType={'fadeout'}
+        animationType={'slide'}
+        disableButtonsControls
+        disableDotsControls
       />
     </div>
   );
