@@ -1,11 +1,13 @@
 body {
-  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
-    
+  background-image: url("../../public/image/vector-background2.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
 }
 
 
 h1 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Patrick Hand', cursive;
     display: flex;
     justify-content: center;
     font-size:7rem;
@@ -18,6 +20,6 @@ h1 {
     justify-content: center;
     margin-top: 3%;
     font-size: 5rem;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Patrick Hand', cursive;
     color: white;
   }
