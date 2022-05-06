@@ -27,7 +27,8 @@
     font-size: 2rem;
     display: flex;
     align-items: center;
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow: 2px 2px 5px #55C6F7;
   }
 
   .navbar-logo:hover {
@@ -54,8 +55,8 @@
     text-decoration: none;
     padding: 0.5rem 1rem;
     height: 100%;
-    font-family: 'Patrick Hand', cursive;
-    
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow: 2px 2px 5px #55C6F7;
   }
 
 
