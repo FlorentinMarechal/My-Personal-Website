@@ -32,7 +32,6 @@ const Gallery = () => {
         items={items} 
         autoPlay
         autoWidth
-        paddingLeft={100}
         infinite
         animationDuration={800}
         animationType={'slide'}
