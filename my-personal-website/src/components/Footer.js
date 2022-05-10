@@ -10,14 +10,14 @@ const Footer = () => {
         <div className="footer">
             <div className="footer-container">
                 <div className="link-container">
-                    <div className="line"></div>
+                    <div className="line left"></div>
                     <Link to='' className="social-link">
-                        <img src={githubLogo} alt='github-logo' className="-logo" />
+                        <img src={githubLogo} alt='github-logo' className="left" />
                     </Link>
                     <Link to='' className="social-link">
-                        <img src={linkdinLogo} alt='linkdin-logo' className="social-logo" />
+                        <img src={linkdinLogo} alt='linkdin-logo' className="social-logo right" />
                     </Link>
-                    <div className="line"></div>
+                    <div className="line right"></div>
                 </div>
             </div>
         </div>

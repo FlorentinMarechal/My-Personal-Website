@@ -38,7 +38,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    border: 1rem solid #57CFDF;
+    border: 1rem solid #55C6F7;
     border-radius: 10%;
     padding: 1.8rem;
     height: 35rem;
@@ -58,7 +58,7 @@
 
 .card-name-over {
     font-size: 6rem;
-    color: #57CFDF;
+    color: #55C6F7;
     padding-bottom: 1rem;
     text-align: center;
     font-family: 'Alfa Slab One', cursive;
@@ -78,7 +78,7 @@
 .card-description-over {
     text-align: center;
     font-size: 3rem;
-    color: #57CFDF;
+    color: #55C6F7;
     padding-bottom: 1rem;
     font-family: 'Alfa Slab One', cursive;
 }
