@@ -6,7 +6,7 @@ import Projets from './components/pages/Projets';
 import Contact from './components/pages/Contact';
 
 
-function App() {
+function App() { 
   return (
     <Router>
       <NavBar />
