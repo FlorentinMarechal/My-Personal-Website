@@ -23,10 +23,10 @@ const NavBar = () => {
         <nav className='navbar'>
             <div className='navbar-container'>
             <div className='nav-social'>
-                <a href="https://github.com/FlorentinMarechal" className="nav-social-link">
+                <a href="https://github.com/FlorentinMarechal" className="nav-social-link" target='_blank' rel='noreferrer'>
                     <img src={githubLogo} alt='github-logo' className="nav-social-logo" />
                 </a>
-                <a href="https://www.linkedin.com/in/florentin-marechal/" className="nav-social-link">
+                <a href="https://www.linkedin.com/in/florentin-marechal/" className="nav-social-link" target='_blank' rel='noreferrer'>
                     <img src={linkdinLogo} alt='linkdin-logo' className="nav-social-logo" />
                 </a>
             </div>

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import './ProjectCards.css';
 import githubLogo from '../public/image/github-logo.png'
 
@@ -77,10 +76,10 @@ export default function ProjectCards() {
                     <div className='card-description'>
                         {project.description}
                     </div>
-                    <div className='card-link'>
-                        <Link to={project.link}>
+                    <div className='card-link' >
+                        <a href={project.link} target='_blank' rel='noreferrer'>
                             <img src={githubLogo} alt="lien du projet" className='github-logo' />
-                        </Link> 
+                        </a> 
                     </div>
                 </div>
             ))}
