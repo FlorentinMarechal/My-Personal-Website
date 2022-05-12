@@ -18,6 +18,15 @@
     max-width: 1500px;
 }
 
+.nav-social {
+    
+}
+
+.nav-social-logo {
+    height: 32px;
+    margin-right: 4rem;
+}
+
 .navbar-logo {
     color: #2767B2;
     justify-self: start;
